@@ -8,5 +8,5 @@
 
 Connect with me: www.linkedin.com/in/gloria-luz-gaviria-ramírez
 
-Languages and Tools:
+
 
