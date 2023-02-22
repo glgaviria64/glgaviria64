@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning JavaScript, React, Html, Css
+- 🌱 I’m currently learning htlm, css, js, react
 
 - 📫 How to reach me glgaviria@gmail.com
 
