@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Frontend development with HTML, CSS and Javascript. React, firebase, Cloudinary** <br>
 - 💬 Ask me about **Administration, leaderschip, finances and industrial engineering **
 </br>
-- 📫 How to reach me **glgaviria@gmail.com**
+- 📫 How to reach me **glgaviria@gmail.com, https://www.linkedin.com/in/glorialgaviriar**
 
 
 
