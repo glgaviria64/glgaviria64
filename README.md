@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gloria Gaviria Ramírez</h1>
- Progamming / Series-Movies / Animals / Languagues / Friendship
+ Programming / Series-Movies / Animals / Languagues / Friendship
 
 <h3 align="center">A frontend developer Jr from Medellín, Colombia</h3>
 - 🌱 I’m currently learning **Frontend development with HTML, CSS and Javascript. React, firebase, Cloudinary** <br>
